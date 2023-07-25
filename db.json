@@ -1,40 +1,34 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "Spotify Stats",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 57
     },
     {
-      "id": 3,
-      "name": "Lettuce",
+      "name": "Spotify Stats",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 58
     },
     {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "Spotify Stats",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 59
+    },
+    {
+      "name": "Spotify Stats",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 60
+    },
+    {
+      "name": "indomie",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 61
     }
   ]
 }
